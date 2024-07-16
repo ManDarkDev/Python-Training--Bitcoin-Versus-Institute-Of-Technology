@@ -1,2 +1,2 @@
 # GiraffeAcademyPythonTraining
-Python Training With Giraffe Academy
+Python Training With Lesson Guidance courtesy of Giraffe Academy
