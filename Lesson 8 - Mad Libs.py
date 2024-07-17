@@ -1,4 +1,7 @@
-
+#In corporate America You're always a Free Agent
+#Always look for new opportunities
+#Never Settle 
+#Life isn't promised. Invest all you can while you can.
 
 
 country = input("Which country: ")
