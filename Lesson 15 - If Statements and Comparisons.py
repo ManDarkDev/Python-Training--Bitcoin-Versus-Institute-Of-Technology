@@ -1,5 +1,6 @@
 #Dont be a gatekeeper. Share your knowldedge with whoever is willing to listen. 
-#Pearls gifted to swine are just plain ol' rocks to them. Understand who's able to appreciate the jewels you possess.
+#However, Pearls gifted to swine are just plain ol' rocks to them. 
+#Understand who's able to appreciate the jewels you possess.
 
 def max_num (num1, num2, num3):# Define a function 'max_num' that takes three arguments: num1, num2, and num3
     if num1 >= num2 and num1 >= num3: #if num1 is greater than or equal to num2 and num1 is greater than or equal to num3
